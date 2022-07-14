@@ -9,4 +9,4 @@
 ## [Website Demo](https://alisamirali.github.io/Foodie/)
 
 
-![chrome_qa8OJQLrnH](https://user-images.githubusercontent.com/62913154/178844578-12792493-f463-4c9e-9d43-30dafa5f5aa7.jpg)
+![Foodie Website Mockup](https://user-images.githubusercontent.com/62913154/178989830-d169bcb1-c475-4c1b-b690-a88cb013bade.png)
